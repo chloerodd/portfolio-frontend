@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f2faf8;
 }
 
 .App-logo {
@@ -35,4 +36,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+img{
+  width: 800px;
+  height: 500px;
+}
+.card-container {
+  padding: 30px;
+}
+.project-h2{
+  padding: 20px;
+  font-size: 50px;
+  color: #f7addb;
+  text-shadow: 1px 1px 1px black, 3px 3px 3px #095d40;
+}
+.footer {
+  border: "3px solid #f4c2e1";
+  background: #168046;
+  color: #f4c2e1;
 }
