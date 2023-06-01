@@ -1,4 +1,4 @@
-const URL = "http://localhost:4000"
+const URL = "https://portfolio-backend-ub27.onrender.com"
 
 export const projectsLoader = async ()=>{
     const response = await fetch(URL+ "/projects")
